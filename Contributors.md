@@ -1574,4 +1574,4 @@ TJanz
 - [Pritam Gayen](https://github.com/pritam0721)
 - [korECM](https://github.com/korECM)
 - [Monsef123](https://github.com/monsef123)
-- [CristianS] (https://github.com/lasuscjs)
+- (https://github.com/lasuscjs)
